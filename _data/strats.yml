@@ -64,7 +64,7 @@ data: [
     worksOn: "",
     usefulFor: "MG positions, Unexpected positions",
     notes: "",
-    link: "",
+    link: "https://youtu.be/BZJhS3tUsxU",
   },{
     thumb: "damaged steeple church.png",
     name: "Large church roof (damaged steeple)",
@@ -112,7 +112,7 @@ data: [
     worksOn: "Crossing quicker, Alternate route",
     usefulFor: "",
     notes: "Not worth it in most situations. Will take engine damage since U13.",
-    link: "",
+    link: "https://youtu.be/98ctGaNRoGU",
   },{
     thumb: "carentan river crossing 3.png",
     name: "Carentan river crossing #3",
@@ -120,7 +120,7 @@ data: [
     worksOn: "",
     usefulFor: "Crossing quicker, Alternate route",
     notes: "Not worth it in most situations. Will take engine damage since U13.",
-    link: "",
+    link: "https://youtu.be/Vj0s-PYWAhI",
   },{
     thumb: "carentan river crossing 4.png",
     name: "Carentan river crossing #4",
@@ -128,7 +128,7 @@ data: [
     worksOn: "",
     usefulFor: "Crossing",
     notes: "Will take engine damage since U13",
-    link: "",
+    link: "https://youtu.be/fpLzTAIkZvQ",
   },{
     thumb: "generale electrique building roof.png",
     name: "Generale Electrique building roofs",
