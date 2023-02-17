@@ -16,7 +16,7 @@ data: [
     notes: "Even works when prone, combine with prone jumping for more stuff.",
     link: "https://youtu.be/kakniRApGrw",
   },{
-    thumb: "",
+    thumb: "two person vaulting.png",
     name: "Two-person vaulting",
     methods: "",
     worksOn: "",
@@ -48,7 +48,7 @@ data: [
     notes: "Height can be improved using assets nearby or built by an engineer.",
     link: "",
   },{
-    thumb: "",
+    thumb: "at gun assisted panther.png",
     name: "AT gun assisted Panther",
     methods: "AT gun lifting panther with barrel for maximum possible height",
     worksOn: "",
@@ -87,8 +87,7 @@ data: [
     usefulFor: "MG positions, Hiding",
     notes: "",
     link: "https://youtu.be/X6xxx8WRQ24",
-  },
-  {
+  },{
     thumb: "one window attic a.png",
     name: "One window attic house roofs",
     methods: "Prone jump held spacebar, vehicle, or surroundings",
@@ -438,7 +437,7 @@ data: [
     methods: "",
     worksOn: "",
     usefulFor: "Carriage Depot mid point",
-    notes: "Can be placed on the top floor and floor below",
+    notes: "Can be placed on the top floor and floor below. Spawns and many other things can be built inside here too.",
     link: "",
   },{
     thumb: "",
