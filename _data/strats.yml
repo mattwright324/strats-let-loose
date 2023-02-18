@@ -171,9 +171,9 @@ data: [
     thumb: "damaged steeple church.png",
     name: "Large church backside windows",
     methods: "Holding space bar",
-    worksOn: "Carentan and Omaha. Does not work on the large churches with an intact steeple.",
-    usefulFor: "Elevated and MG positions",
-    notes: "Half of the roof is still inaccessible, small ledge patched in U13.",
+    worksOn: "Carentan and Omaha.",
+    usefulFor: "Shortcut into church",
+    notes: "",
     link: "https://youtu.be/iZ-PbjDF4T0",
   },{
     thumb: "damaged steeple church.png",
