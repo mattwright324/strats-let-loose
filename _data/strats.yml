@@ -30,7 +30,7 @@ data: [
     worksOn: "",
     usefulFor: "Fun",
     notes: "If a person has their DPI extremely high and starts spinning the mouse wildly, a person landing or vaulting on their head is sent flying.",
-    link: "",
+    link: "https://youtu.be/vFg0fDDrbTA",
   },{
     thumb: "alternate long building.png",
     name: "Truck assist",
@@ -150,7 +150,7 @@ data: [
     worksOn: "All maps where asset is present",
     usefulFor: "Elevated position, Hiding",
     notes: "Some of this building type are elevated and truck must be backed up on the ramp.",
-    link: "",
+    link: "https://youtu.be/tkNt-eJo8EM",
   },{
     thumb: "canal crossing roofs.png",
     name: "Canal crossing roofs",
@@ -255,6 +255,14 @@ data: [
     usefulFor: "Protected halftrack",
     notes: "",
     link: "https://youtu.be/DyfV-9BnwvM",
+  },{
+    thumb: "halftrack carry supplies ammo.png",
+    name: "Halftracks carrying supply and ammo drops",
+    methods: "Halftrack",
+    worksOn: "",
+    usefulFor: "Enhanced halftrack",
+    notes: "Works best with the US halftrack as dropped supplies are smaller.",
+    link: "https://youtu.be/jk_qrlShERU",
   },{
     thumb: "smdm panther to church roof.png",
     name: "SMDM large church roof",
