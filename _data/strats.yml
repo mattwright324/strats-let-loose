@@ -626,7 +626,7 @@ data: [
   },{
     thumb: "remagen underside chimney.png",
     name: "Remagen underside MG chimney",
-    methods: "",
+    methods: "Destroyed building chimney",
     worksOn: "",
     usefulFor: "MG position in view of entire underside from the US side",
     notes: "",
@@ -634,7 +634,7 @@ data: [
   },{
     thumb: "remagen underside rock.png",
     name: "Remagen underside MG rock",
-    methods: "Destroyed building chimney",
+    methods: "",
     worksOn: "",
     usefulFor: "MG position in view of entire underside from the German side",
     notes: "",
