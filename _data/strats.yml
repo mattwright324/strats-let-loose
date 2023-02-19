@@ -885,3 +885,46 @@ old_data: [
     link: "",
   },
 ]
+
+unconfirmed_data: [
+  {
+    name: "SMDM elevators",
+    notes: "Something to do with two-person vaulting but could not reproduce. How did they do this?",
+    links: [
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2919936471",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2919935569",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2919936856",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2796121374"
+    ],
+  },{
+    name: "Unknown elevator",
+    notes: "Have not been able to find the exact asset in the video in a location that matches the surroundings. Unknown which map.",
+    links: [
+      "https://www.reddit.com/r/HellLetLoose/comments/z7fu8t/i_discovered_a_thing/",
+    ],
+  },{
+    name: "Floating by a tree",
+    notes: "Location by Carentan US mid HQ. Could not reproduce by tree in photo.",
+    links: [
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2892688037",
+    ],
+  },{
+    name: "",
+    notes: "",
+    links: [
+      "",
+    ],
+  },{
+    name: "",
+    notes: "",
+    links: [
+      "",
+    ],
+  },{
+    name: "",
+    notes: "",
+    links: [
+      "",
+    ],
+  },
+]
