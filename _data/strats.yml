@@ -112,6 +112,22 @@ data: [
     notes: "Method depends on height of building.",
     link: "https://youtu.be/Op1Bbgbnhm8",
   },{
+    thumb: "bunker garrison.png",
+    name: "German bunker garrisons",
+    methods: "Place a level 1 bunker asset, place garrison in the middle, then upgrade bunker to level 3 concrete.",
+    worksOn: "",
+    usefulFor: "Protected garrison",
+    notes: "Only worth it on offensive in certain situations.",
+    link: "https://youtu.be/ZMX_aZm8EPk",
+  },{
+    thumb: "bunker gate.png",
+    name: "German bunker belgian gate",
+    methods: "Place a level 1 bunker asset, place belgian gate in the middle, then upgrade bunker to level 3 concrete.",
+    worksOn: "",
+    usefulFor: "Fun",
+    notes: "Waste of resources but you can do it!",
+    link: "https://youtu.be/MU-gE2_VHMc",
+  },{
     thumb: "building sandbags.png",
     name: "Cafe Normandie sandbags",
     methods: "Prone jump",
@@ -247,6 +263,22 @@ data: [
     usefulFor: "MG positions",
     notes: "Most useful one is the chimney on PHL Carentan Causeway.",
     link: "https://youtu.be/1s5sTrPhnIc",
+  },{
+    thumb: "parkour assets.png",
+    name: "Town assets parkour",
+    methods: "Prone jump, Hold spacebar, Truck assist, Surroundings",
+    worksOn: "",
+    usefulFor: "Slightly elevated positions, MG positions",
+    notes: "Various assets in towns are usually solid: (street) lamps, awnings, shutters, sandbags, storefronts.",
+    link: "https://youtu.be/Bg-F1FTogSc",
+  },{
+    thumb: "canal boat crossing.png",
+    name: "Carentan canal boat crossing",
+    methods: "Trucks, Medium/heavy tanks",
+    worksOn: "",
+    usefulFor: "Medium and heavy tank crossing",
+    notes: "Very easy to mess up and fall in the river, not worth the risk.",
+    link: "",
   },{
     thumb: "carentan river crossing 1.png",
     name: "Carentan river crossing #1",
@@ -909,10 +941,18 @@ unconfirmed_data: [
       "https://steamcommunity.com/sharedfiles/filedetails/?id=2892688037",
     ],
   },{
-    name: "",
-    notes: "",
+    name: "SME spawn in closed house",
+    notes: "Screenshot shows 266 meters west from SME church. Does it let you build inside?",
     links: [
-      "",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2926083434",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2908118647",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2930340459"
+    ],
+  },{
+    name: "Spawn in closed building",
+    notes: "Unknown which map.",
+    links: [
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2898962579",
     ],
   },{
     name: "",
