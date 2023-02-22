@@ -46,7 +46,7 @@ data: [
     worksOn: "",
     usefulFor: "Taking out arty or exact garry marks from far away",
     notes: "German rocket max range is 950m. US rocket max range is 740m. Refer to <a href='https://imgur.com/a/JlHnPuj' target='_blank'>Panzershreck</a> and <a href='https://imgur.com/a/OoNdUtJ' target='_blank'>Bazooka</a> aiming guides.",
-    link: "",
+    link: "https://youtu.be/Pad3IvCreKw",
   },{
     thumb: "quick dismantle.png",
     name: "Quick dismantle exploit (Console only)",
