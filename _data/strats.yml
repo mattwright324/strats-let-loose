@@ -620,15 +620,15 @@ data: [
     name: "Hurtgen mid river crossing",
     methods: "Any vehicle",
     worksOn: "",
-    usefulFor: "Alternate route to cross",
-    notes: "",
+    usefulFor: "Alternate and quicker crossing",
+    notes: "Tank needs to take a slightly longer route and should slow down on the turn",
     link: "https://youtu.be/reaS_cp4Qbo",
   },{
     thumb: "hurtgen north river crossing.png",
     name: "Hurtgen north river crossing",
     methods: "Truck",
     worksOn: "",
-    usefulFor: "Alternate and quicker crossing",
+    usefulFor: "Alternate route to cross",
     notes: "Will take engine damage since U13",
     link: "https://youtu.be/HixfoYU6xVg",
   },{
