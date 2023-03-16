@@ -257,12 +257,12 @@ data: [
     link: "",
   },{
     thumb: "sme church airhead.png",
-    name: "SME airhead inside large church",
+    name: "SME large church airhead",
     methods: "Drop an airhead inside the church",
     worksOn: "",
     usefulFor: "Unexpected airhead location",
     notes: "Only useful in specific situations, not much otherwise. Only lights up green if infantry inside are not in the way.",
-    link: "",
+    link: "https://youtu.be/_TKZ0PYxHHQ",
   },{
     thumb: "destroyed building corner.png",
     name: "Destroyed building corners",
@@ -548,9 +548,9 @@ data: [
     name: "SME spawns in closed house",
     methods: "Prone jump hold space",
     worksOn: "",
-    usefulFor: "Fun, Protected garrison",
+    usefulFor: "Protected garrison",
     notes: "Window of closed house is not solid. Once on the roof you can go inside and place a spawn inside. You will have to bandage jumping down.",
-    link: "",
+    link: "https://youtu.be/1vCLx_aFgRk",
   },{
     thumb: "smdm closed building.png",
     name: "SMDM inside closed houses",
@@ -558,7 +558,7 @@ data: [
     worksOn: "",
     usefulFor: "Fun, there is no way out",
     notes: "Place OP as close to wall as possible and you will spawn inside",
-    link: "",
+    link: "https://youtu.be/38MLlNHuwbg",
   },{
     thumb: "red roof houses.png",
     name: "L shaped red roofed house roofs",
@@ -622,7 +622,7 @@ data: [
     worksOn: "",
     usefulFor: "Alternate route to cross",
     notes: "",
-    link: "",
+    link: "https://youtu.be/reaS_cp4Qbo",
   },{
     thumb: "hurtgen north river crossing.png",
     name: "Hurtgen north river crossing",
@@ -630,7 +630,7 @@ data: [
     worksOn: "",
     usefulFor: "Alternate and quicker crossing",
     notes: "Will take engine damage since U13",
-    link: "",
+    link: "https://youtu.be/HixfoYU6xVg",
   },{
     thumb: "radar tower garry.png",
     name: "Radar tower garry",
@@ -773,7 +773,7 @@ data: [
     methods: "Any tank, HE rounds",
     worksOn: "",
     usefulFor: "",
-    notes: "Easiest for the germans and easier for the US if Mont isn't the point",
+    notes: "Easiest for the germans and only easy for the US if Mont isn't the point",
     link: "",
   },{
     thumb: "smdm church road snipe.png",
