@@ -761,7 +761,8 @@ data: [
     link: "https://youtu.be/_doJPLLYh2E",
   },{
     thumb: "",
-    name: "Utah tank snipe GER arty",
+    name: "",
+#    name: "Utah tank snipe GER arty",
     methods: "Stuart",
     worksOn: "",
     usefulFor: "Alternative counter arty",
