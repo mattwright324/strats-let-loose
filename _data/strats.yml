@@ -775,7 +775,7 @@ data: [
     usefulFor: "Match start advantage",
     notes: "Plenty of time to setup. See: <a href='./assets/remagen tank snipe us mid warmup reference.png' target='_blank'>aim reference</a>",
     link: "https://youtu.be/NIvt7RF2e5k",
-  ,{
+  },{
     thumb: "hurtgen tank snipe top us warmup.png",
     name: "Hurtgen tank snipe US top warmup",
     methods: "Panzer IV",
