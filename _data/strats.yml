@@ -733,7 +733,7 @@ data: [
     methods: "Panzer IV",
     worksOn: "",
     usefulFor: "Match start advantage",
-    notes: "Challenging, not a lot of time to get setup before the warmup barrier falls. See: <a href='./assets/foy tank snipe reference.png' target='_blank'>aim reference</a>",
+    notes: "Challenging, not a lot of time to get setup before the warmup barrier falls.",
     link: "https://youtu.be/YlKW_ahQWm8",
   },{
     thumb: "phl tank snipe.png",
@@ -741,7 +741,7 @@ data: [
     methods: "Puma",
     worksOn: "",
     usefulFor: "Match start advantage",
-    notes: "Puma spawns right next to spot, plenty of time to setup.",
+    notes: "Puma spawns right next to spot, plenty of time to setup.  See: <a href='./assets/phl tank snipe reference.png' target='_blank'>aim reference</a>",
     link: "https://youtu.be/0C03WCNF5Pc",
   },{
     thumb: "utah tank snipe 1.png",
