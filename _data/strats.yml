@@ -546,7 +546,7 @@ data: [
   },{
     thumb: "sme spawn in closed house.png",
     name: "SME spawns in closed house",
-    methods: "Prone jump hold space",
+    methods: "Prone jump hold space, OP next to wall in open building",
     worksOn: "",
     usefulFor: "Protected garrison",
     notes: "Window of closed house is not solid. Once on the roof you can go inside and place a spawn inside. You will have to bandage jumping down.",
@@ -806,7 +806,7 @@ data: [
     methods: "AT gun, Any Tank",
     worksOn: "",
     usefulFor: "Match start advantage",
-    notes: "",
+    notes: "Time an average of <i>??</i> seconds after the barrier falls to start firing.",
     link: "https://clips.twitch.tv/AmusedFamousSalamanderGivePLZ-XQu7E_Rham-yijzD",
   },{
     thumb: "",
