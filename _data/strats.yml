@@ -90,10 +90,10 @@ data: [
   },{
     thumb: "",
     name: "Tank hedge peeking",
-    methods: "Barricade",
+    methods: "2x Barricade",
     worksOn: "Any map with hedges",
-    usefulFor: "Unexpected positions",
-    notes: "",
+    usefulFor: "Unexpected tank positions",
+    notes: "Can be hit or miss depending on ground height and hedge hitbox",
     link: "",
   },{
     thumb: "obstruct tank driver view.png",
@@ -679,6 +679,22 @@ data: [
     usefulFor: "Elevated position, MG position on small chimney",
     notes: "",
     link: "https://youtu.be/JG6d7XyUiro",
+  },{
+    thumb: "brecourt manor hiding spot 1.png",
+    name: "Brecourt Manor hiding spot 1",
+    methods: "",
+    worksOn: "",
+    usefulFor: "Hiding",
+    notes: "You can place OPs inside",
+    link: "https://youtu.be/zR3ejk08aGg",
+  },{
+    thumb: "brecourt manor hiding spot 2.png",
+    name: "Brecourt Manor hiding spot 2",
+    methods: "Truck, Hold spacebar",
+    worksOn: "",
+    usefulFor: "Hiding, Unexpected position",
+    notes: "You can shoot out the small gap in the window. Once you are in here you can't get out without redeploying",
+    link: "https://youtu.be/dp0sU7yTMls",
   },{
     thumb: "windmill hiding spot.png",
     name: "Windmill top floor hiding spot",
