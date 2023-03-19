@@ -88,13 +88,13 @@ data: [
     notes: "",
     link: "https://youtu.be/cKroOrUJzVg",
   },{
-    thumb: "",
+    thumb: "tank hedge peeking.png",
     name: "Tank hedge peeking",
-    methods: "2x Barricade",
+    methods: "2x Barricade, Optional repair station",
     worksOn: "Any map with hedges",
     usefulFor: "Unexpected tank positions",
-    notes: "Can be hit or miss depending on ground height and hedge hitbox",
-    link: "",
+    notes: "Can be hit or miss depending on ground height and hedge hitbox. Gunner visibility can be bad and will have to rely on marks to shoot at.",
+    link: "https://youtu.be/0ef4vHM9P6E",
   },{
     thumb: "obstruct tank driver view.png",
     name: "Obstruct tank driver view",
@@ -137,7 +137,7 @@ data: [
     link: "https://youtu.be/MU-gE2_VHMc",
   },{
     thumb: "building sandbags.png",
-    name: "Cafe Normandie sandbags",
+    name: "Cafe Normandie sandbags hiding spot",
     methods: "Prone jump",
     worksOn: "All maps where asset is present",
     usefulFor: "Hiding",
@@ -290,10 +290,10 @@ data: [
   },{
     thumb: "canal boat crossing.png",
     name: "Carentan canal boat crossing",
-    methods: "Trucks, Medium/heavy tanks",
+    methods: "",
     worksOn: "",
     usefulFor: "Medium and heavy tank crossing",
-    notes: "Very easy to mess up and fall in the river, not worth the risk.",
+    notes: "US tanks going West to East are very easy to fall in the river. German tanks going East to West are much safer.",
     link: "",
   },{
     thumb: "carentan river crossing 1.png",
@@ -463,6 +463,14 @@ data: [
     usefulFor: "Elevated position, MG position chimney",
     notes: "Garrison can also be placed on tin roof",
     link: "https://youtu.be/-sgcdqHvUt0",
+  },{
+    thumb: "west vierville panther roofset.png",
+    name: "Omaha West Vierville panther roofset",
+    methods: "Repair station + Belgian gate + OP + Panther",
+    worksOn: "",
+    usefulFor: "Elevated tank position",
+    notes: "Mildly viable in a match. Getting down can be risky.",
+    link: "https://youtu.be/lU9lzZ7acR4",
   },{
     thumb: "west vierville tank window.png",
     name: "Omaha West Vierville tank window",
@@ -681,7 +689,7 @@ data: [
     link: "https://youtu.be/JG6d7XyUiro",
   },{
     thumb: "brecourt manor hiding spot 1.png",
-    name: "Brecourt Manor hiding spot 1",
+    name: "SMDM Brecourt Manor hiding spot 1",
     methods: "",
     worksOn: "",
     usefulFor: "Hiding",
@@ -689,7 +697,7 @@ data: [
     link: "https://youtu.be/zR3ejk08aGg",
   },{
     thumb: "brecourt manor hiding spot 2.png",
-    name: "Brecourt Manor hiding spot 2",
+    name: "SMDM Brecourt Manor hiding spot 2",
     methods: "Truck, Hold spacebar",
     worksOn: "",
     usefulFor: "Hiding, Unexpected position",
