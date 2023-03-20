@@ -100,7 +100,7 @@ data: [
     name: "Obstruct tank driver view",
     methods: "Jump on top and lay infront of the driver port",
     worksOn: "Any tank",
-    usefulFor: "Making it harder on the driver",
+    usefulFor: "Making it harder on the driver, Force one of the tankers out to be shot",
     notes: "",
     link: "",
   },{
@@ -232,15 +232,7 @@ data: [
     notes: "While proning on wall corner, rapidly tap left or right (depending on side you are on) and spacebar until it vaults you onto the roof.",
     link: "https://youtu.be/7fRuVdAPSw8",
   },{
-    thumb: "damaged steeple church.png",
-    name: "Large church backside windows",
-    methods: "Holding space bar",
-    worksOn: "Carentan and Omaha.",
-    usefulFor: "Shortcut into church",
-    notes: "",
-    link: "https://youtu.be/iZ-PbjDF4T0",
-  },{
-    thumb: "damaged steeple church.png",
+    thumb: "damaged steeple roof.png",
     name: "Large church roof (damaged steeple)",
     methods: "Holding space bar",
     worksOn: "Carentan and Omaha. Does not work on the large churches with an intact steeple.",
@@ -248,13 +240,21 @@ data: [
     notes: "Half of the roof is still inaccessible, small ledge patched in U13.",
     link: "https://youtu.be/rlw7gNvvRdE",
   },{
+    thumb: "damaged steeple backside windows.png",
+    name: "Large church backside windows",
+    methods: "Holding space bar",
+    worksOn: "Carentan and Omaha.",
+    usefulFor: "Shortcut into church",
+    notes: "",
+    link: "https://youtu.be/iZ-PbjDF4T0",
+  },{
     thumb: "sme panther to church roof.png",
     name: "SME large church roof",
     methods: "Panther assist using sandbags + Prone jump",
     worksOn: "",
     usefulFor: "Elevated positions, Fun",
     notes: "Impractical for most games.",
-    link: "",
+    link: "https://youtu.be/1Wg9hq1BL00",
   },{
     thumb: "sme church airhead.png",
     name: "SME large church airhead",
@@ -358,7 +358,7 @@ data: [
     worksOn: "",
     usefulFor: "Elevated positions, Offensive when defending, Fun",
     notes: "Impractical for most games.",
-    link: "",
+    link: "https://youtu.be/O7cbmBZOd0A",
   },{
     thumb: "smdm jeep around the town.png",
     name: "Out of bounds around SMDM",
@@ -438,7 +438,7 @@ data: [
     worksOn: "",
     usefulFor: "Chimney MG position, Fun",
     notes: "Impractical for most matches.",
-    link: "",
+    link: "https://youtu.be/XAKEn71QETI",
   },{
     thumb: "omaha tin roofs.png",
     name: "Omaha spawns on tin roofs",
@@ -786,7 +786,7 @@ data: [
   },{
     thumb: "",
     name: "",
-#    name: "Utah tank snipe GER arty",
+    #    name: "Utah tank snipe GER arty",
     methods: "Stuart",
     worksOn: "",
     usefulFor: "Alternative counter arty",
