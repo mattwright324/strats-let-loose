@@ -96,7 +96,7 @@ data: [
     notes: "Can be hit or miss depending on ground height and hedge hitbox. Gunner visibility can be bad and will have to rely on marks to shoot at.",
     link: "https://youtu.be/0ef4vHM9P6E",
   },{
-    thumb: "obstruct tank driver view.png",
+    thumb: "obstruct driver port.png",
     name: "Obstruct tank driver view",
     methods: "Jump on top and lay infront of the driver port",
     worksOn: "Any tank",
@@ -290,11 +290,11 @@ data: [
   },{
     thumb: "canal boat crossing.png",
     name: "Carentan canal boat crossing",
-    methods: "",
+    methods: "1st or 2nd gear",
     worksOn: "",
     usefulFor: "Medium and heavy tank crossing",
-    notes: "US tanks going West to East are very easy to fall in the river. German tanks going East to West are much safer.",
-    link: "",
+    notes: "Panther can go both directions. US medium and heavy can cross west to east. Be careful on the turn, it can be easy to fall in the river.",
+    link: "https://youtu.be/TRRr6C_Vv8E",
   },{
     thumb: "carentan river crossing 1.png",
     name: "Carentan river crossing #1",
