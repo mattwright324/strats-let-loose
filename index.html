@@ -4,14 +4,28 @@ title: Strats Let Loose
 ---
 
 <div class="container">
-    <div class="alert alert-light alert-dismissible fade show sticky-top" role="alert">
-        Made in combination with accessibility and special structure overlays in
-        <a href="https://mattw.io/maps-let-loose/" target="_blank">Maps Let Loose</a>, up to date with U13.
-        Check the <a href="https://hllseasonal.com/" target="_blank">Seasonal</a> discord <i>#rules</i> channel to determine what is and isn't allowed in comp.
-        Created by Winston [HR].
-        Last updated: {{ site.time | date_to_xmlschema }}
-        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-    </div>
+    <h2>About</h2>
+    <ul>
+        <li>
+            Made in combination with accessibility and special structure overlays in
+            <a href="https://mattw.io/maps-let-loose/" target="_blank">Maps Let Loose</a>, up to date with U13.
+        </li>
+        <li>
+            Check the <a href="https://hllseasonal.com/" target="_blank">Seasonal</a> discord <i>#rules</i> channel to determine what is and isn't allowed in comp.
+        </li>
+        <li>
+            Created by Winston [HR].
+        </li>
+        <li>
+            Thanks for additional assistance and help from xware_dogx, PipePistoleer, and RyanCraig37.
+        </li>
+        <li>
+            Last updated: {{ site.time | date_to_xmlschema }}
+        </li>
+    </ul>
+
+    <h2>Strats</h2>
+    <p>Current forbidden knowledge</p>
 
     <div class="row">
         {% assign strats = site.data.strats.data %}
@@ -121,8 +135,7 @@ title: Strats Let Loose
         {% endif %}
         {% endfor %}
 
-
-        <h2>Unconfirmed strats</h2>
+        <h2>Unconfirmed</h2>
         <p>Images or videos that could not be reproduced or exact location unknown</p>
 
         <div class="row">
