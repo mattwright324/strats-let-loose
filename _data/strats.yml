@@ -666,11 +666,19 @@ data: [
   },{
     thumb: "foy big tree.png",
     name: "Foy big tree hiding spot",
-    methods: "Truck, Belgian gate, Hold spacebar",
+    methods: "Truck, Surroundings",
     worksOn: "",
     usefulFor: "Hiding, Elevated position",
     notes: "",
-    link: "https://youtu.be/uEyNV4SQUSc",
+    link: "",
+  },{
+    thumb: "carentan big tree.png",
+    name: "Carentan big tree hiding spot",
+    methods: "Truck, Surroundings",
+    worksOn: "",
+    usefulFor: "Hiding, Elevated position",
+    notes: "",
+    link: "",
   },{
     thumb: "yellow house attic.png",
     name: "Yellow House attic from furnace",
@@ -830,7 +838,7 @@ data: [
     methods: "AT gun, Any Tank",
     worksOn: "",
     usefulFor: "Match start advantage",
-    notes: "Time an average of <i>??</i> seconds after the barrier falls to start firing.",
+    notes: "Untested. Time an average of <i>??</i> seconds after the barrier falls to start firing.",
     link: "https://clips.twitch.tv/AmusedFamousSalamanderGivePLZ-XQu7E_Rham-yijzD",
   },{
     thumb: "",
