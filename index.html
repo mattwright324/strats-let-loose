@@ -17,7 +17,7 @@ title: Strats Let Loose
             Created by Winston [HR].
         </li>
         <li>
-            Thanks for additional assistance and help from xware_dogx, PipePistoleer, and RyanCraig37.
+            Thanks for additional assistance, help, and tips for some strats from xware_dogx, PipePistoleer, RyanCraig37, and Babyburn.
         </li>
         <li>
             Last updated: {{ site.time | date_to_xmlschema }}
@@ -41,7 +41,12 @@ title: Strats Let Loose
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title">{{strat.name}}</h5>
+                            <h5 class="card-title">
+                                {{strat.name}}
+                                {% if strat.thanks %}
+                                <i class="bi bi-info-circle" data-bs-toggle="tooltip" data-bs-title="Thanks: {{strat.thanks}}"></i>
+                                {% endif %}
+                            </h5>
                             {% if strat.methods != "" %}
                             <p class="card-text">
                                 Method(s): {{strat.methods}}

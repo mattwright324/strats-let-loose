@@ -23,6 +23,7 @@ data: [
     usefulFor: "Getting on some taller objects without a truck",
     notes: "Vaulting on a normal object while someone is standing on it will vault you over their head.",
     link: "https://youtu.be/Bm6J5G3MKig",
+    thanks: "xware_dogx (help)",
   },{
     thumb: "dpi launch.png",
     name: "High-DPI launches",
@@ -31,6 +32,7 @@ data: [
     usefulFor: "Fun",
     notes: "If a person has their DPI extremely high and starts spinning the mouse wildly, a person landing or vaulting on their head is sent flying.",
     link: "https://youtu.be/vFg0fDDrbTA",
+    thanks: "PipePistoleer (help)",
   },{
     thumb: "alternate long building.png",
     name: "Truck assist",
@@ -95,6 +97,7 @@ data: [
     usefulFor: "Unexpected tank positions",
     notes: "Can be hit or miss depending on ground height and hedge hitbox. Gunner visibility can be bad and will have to rely on marks to shoot at.",
     link: "https://youtu.be/0ef4vHM9P6E",
+    thanks: "RyanCraig37 (help)",
   },{
     thumb: "obstruct driver port.png",
     name: "Obstruct tank driver view",
@@ -183,6 +186,7 @@ data: [
     usefulFor: "Slightly elevated position",
     notes: "",
     link: "https://youtu.be/7V4Qga7Pvq8",
+    thanks: "xware_dogx (help)",
   },{
     thumb: "alternate long building.png",
     name: "Alternate long building roof",
@@ -335,6 +339,7 @@ data: [
     usefulFor: "Elevated positions, Defending Customs on Carentan offensive, Fun",
     notes: "Impractical for most games.",
     link: "",
+    thanks: "RyanCraig37 (help)",
   },{
     thumb: "centrale electrique building halftracks.png",
     name: "Centrale Electrique building halftracks",
@@ -471,6 +476,7 @@ data: [
     usefulFor: "Elevated tank position",
     notes: "Mildly viable in a match. Getting down can be risky.",
     link: "https://youtu.be/lU9lzZ7acR4",
+    thanks: "RyanCraig37 (help)",
   },{
     thumb: "west vierville tank window.png",
     name: "Omaha West Vierville tank window",
@@ -665,20 +671,39 @@ data: [
     link: "https://youtu.be/m9ENdDdWyVs",
   },{
     thumb: "foy big tree.png",
-    name: "Foy big tree hiding spot",
+    name: "Foy big tree hiding spots",
     methods: "Truck, Surroundings",
     worksOn: "",
     usefulFor: "Hiding, Elevated position",
     notes: "",
-    link: "",
+    link: "https://youtu.be/-IPmoX_bokg",
+    thanks: "Babyburn (partial tip)",
   },{
     thumb: "carentan big tree.png",
     name: "Carentan big tree hiding spot",
     methods: "Truck, Surroundings",
     worksOn: "",
     usefulFor: "Hiding, Elevated position",
+    notes: "Some trees work, some do not. Non-truck methods are more difficult and require bandages.",
+    link: "https://youtu.be/aYjoaLvJ8rI",
+    thanks: "Babyburn (tip)",
+  },{
+    thumb: "carentan various tree hiding spots.png",
+    name: "Carentan various trees hiding spots",
+    methods: "Surroundings",
+    worksOn: "",
+    usefulFor: "Hiding, Elevated position",
     notes: "",
-    link: "",
+    link: "https://youtu.be/FnYhAM7CL7Y",
+    thanks: "Babyburn (tip)",
+  },{
+    thumb: "town center statue.png",
+    name: "Carentan Town Center statue",
+    methods: "Panther assist",
+    worksOn: "",
+    usefulFor: "Fun",
+    notes: "",
+    link: "https://youtu.be/7qSkEiq8KhY",
   },{
     thumb: "yellow house attic.png",
     name: "Yellow House attic from furnace",
@@ -760,6 +785,14 @@ data: [
     notes: "",
     link: "https://youtu.be/ZtmuwayhDX0",
   },{
+    thumb: "t70 yeet panther.png",
+    name: "T-70 yeet Panther out of bounds",
+    methods: "",
+    worksOn: "Soviet maps only",
+    usefulFor: "",
+    notes: "Untested. T-70 can scoop and carry the Panther easily and they can rarely get out of it. Worthwhile fuel trade, T-70 is destroyed too.",
+    link: "",
+  },{
     thumb: "foy tank snipe.png",
     name: "Foy tank snipe US mid warmup",
     methods: "Panzer IV",
@@ -767,6 +800,7 @@ data: [
     usefulFor: "Match start advantage",
     notes: "Challenging, not a lot of time to get setup before the warmup barrier falls.",
     link: "https://youtu.be/YlKW_ahQWm8",
+    thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
     thumb: "phl tank snipe.png",
     name: "PHL tank snipe US mid warmup",
@@ -775,6 +809,7 @@ data: [
     usefulFor: "Match start advantage",
     notes: "Puma spawns right next to spot, plenty of time to setup.  See: <a href='./assets/phl tank snipe reference.png' target='_blank'>aim reference</a>",
     link: "https://youtu.be/0C03WCNF5Pc",
+    thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
     thumb: "utah tank snipe 1.png",
     name: "Utah tank snipe GER bottom warmup",
@@ -783,6 +818,7 @@ data: [
     usefulFor: "Match start advantage",
     notes: "Plenty of time to setup. See: <a href='./assets/utah tank snipe 1 reference.png' target='_blank'>aim reference</a>",
     link: "https://youtu.be/IzMqvh8D_Ww",
+    thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
     thumb: "utah tank snipe 2.png",
     name: "Utah tank snipe GER mid warmup",
@@ -791,15 +827,7 @@ data: [
     usefulFor: "Match start advantage",
     notes: "Plenty of time to setup. See: <a href='./assets/utah tank snipe 2 reference.png' target='_blank'>aim reference</a>",
     link: "https://youtu.be/_doJPLLYh2E",
-  },{
-    thumb: "",
-    name: "",
-    #    name: "Utah tank snipe GER arty",
-    methods: "Stuart",
-    worksOn: "",
-    usefulFor: "Alternative counter arty",
-    notes: "",
-    link: "",
+    thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
     thumb: "remagen tank snipe us mid warmup.png",
     name: "Remagen tank snipe US mid warmup",
@@ -808,6 +836,7 @@ data: [
     usefulFor: "Match start advantage",
     notes: "Plenty of time to setup. See: <a href='./assets/remagen tank snipe us mid warmup reference.png' target='_blank'>aim reference</a>",
     link: "https://youtu.be/NIvt7RF2e5k",
+    thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
     thumb: "hurtgen tank snipe top us warmup.png",
     name: "Hurtgen tank snipe US top warmup",
@@ -832,6 +861,14 @@ data: [
     usefulFor: "",
     notes: "See: <a href='./assets/carentan tank snipe train station backup garry reference.png' target='_blank'>aim reference</a>",
     link: "https://youtu.be/wmMRlNf8Caw",
+  },{
+    thumb: "stalingrad tank snipe carriage depot warmup truck.png",
+    name: "Stalingrad tank snipe Carriage Depot warmup truck",
+    methods: "Recon tank",
+    worksOn: "",
+    usefulFor: "",
+    notes: "Untested. Drive a little past the warmup barrier once it drops then wait for the truck to appear in the 1000m render radius.",
+    link: "",
   },{
     thumb: "smdm church road snipe.png",
     name: "SMDM snipe church road",
