@@ -791,7 +791,7 @@ data: [
     worksOn: "Soviet maps only",
     usefulFor: "",
     notes: "Untested. T-70 can scoop and carry the Panther easily and they can rarely get out of it. Worthwhile fuel trade, T-70 is destroyed too.",
-    link: "",
+    link: "https://youtu.be/bv5wcShUoOY",
   },{
     thumb: "foy tank snipe.png",
     name: "Foy tank snipe US mid warmup",
@@ -1097,7 +1097,8 @@ unconfirmed_data: [
       "https://steamcommunity.com/sharedfiles/filedetails/?id=2926083434",
       "https://steamcommunity.com/sharedfiles/filedetails/?id=2908118647",
       "https://steamcommunity.com/sharedfiles/filedetails/?id=2930340459",
-      "https://steamcommunity.com/sharedfiles/filedetails/?id=2870204756"
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2870204756",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2954337213",
     ],
   },{
     name: "Spawn in closed building",
@@ -1110,6 +1111,33 @@ unconfirmed_data: [
     notes: "Unknown which map",
     links: [
       "https://steamcommunity.com/sharedfiles/filedetails/?id=2943191141",
+    ],
+  },{
+    name: "Kharkov elevator",
+    notes: "Appears to be somewhere around River Crossing",
+    links: [
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2954441731",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2954441702",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2954441756",
+    ],
+  },{
+    name: "Carentan spawn in closed building",
+    notes: "Unknown where on Carentan",
+    links: [
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2953996404",
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2953996627",
+    ],
+  },{
+    name: "Tank pushing truck sent flying",
+    notes: "Reproduceable?",
+    links: [
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=2947947607",
+    ],
+  },{
+    name: "",
+    notes: "",
+    links: [
+      "",
     ],
   },{
     name: "",
