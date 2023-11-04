@@ -1,14 +1,6 @@
 data: [
   {
-    thumb: "prone jump.png",
-    name: "Prone jumping",
-    methods: "Jump then prone mid air quickly",
-    worksOn: "",
-    usefulFor: "Getting on non-vaultable objects.",
-    notes: "If it's not listed here, try prone jumping to it.",
-    link: "https://youtu.be/AW6APCPBGCc",
-  },{
-    thumb: "hold spacebar.png",
+    thumb: "hold spacebar.jpg",
     name: "Holding spacebar",
     methods: "",
     worksOn: "",
@@ -16,7 +8,7 @@ data: [
     notes: "Even works when prone, combine with prone jumping for more stuff.",
     link: "https://youtu.be/kakniRApGrw",
   },{
-    thumb: "two person vaulting.png",
+    thumb: "two person vaulting.jpg",
     name: "Two-person vaulting",
     methods: "",
     worksOn: "",
@@ -25,7 +17,7 @@ data: [
     link: "https://youtu.be/Bm6J5G3MKig",
     thanks: "xware_dogx (help)",
   },{
-    thumb: "dpi launch.png",
+    thumb: "dpi launch.jpg",
     name: "High-DPI launches",
     methods: "",
     worksOn: "",
@@ -34,7 +26,7 @@ data: [
     link: "https://youtu.be/vFg0fDDrbTA",
     thanks: "PipePistoleer (help)",
   },{
-    thumb: "alternate long building.png",
+    thumb: "alternate long building.jpg",
     name: "Truck assist",
     methods: "",
     worksOn: "",
@@ -42,7 +34,7 @@ data: [
     notes: "",
     link: "",
   },{
-    thumb: "at rocket snipe.png",
+    thumb: "at rocket snipe.jpg",
     name: "AT rocket sniping",
     methods: "",
     worksOn: "",
@@ -50,7 +42,7 @@ data: [
     notes: "German rocket max range is 950m. US rocket max range is 740m. Refer to <a href='https://imgur.com/a/JlHnPuj' target='_blank'>Panzershreck</a> and <a href='https://imgur.com/a/OoNdUtJ' target='_blank'>Bazooka</a> aiming guides.",
     link: "https://youtu.be/Pad3IvCreKw",
   },{
-    thumb: "omaha big house f4.png",
+    thumb: "omaha big house f4.jpg",
     name: "Panther assist",
     methods: "",
     worksOn: "",
@@ -58,7 +50,7 @@ data: [
     notes: "Height can be improved using assets nearby or built by an engineer.",
     link: "",
   },{
-    thumb: "at gun assisted panther.png",
+    thumb: "at gun assisted panther.jpg",
     name: "AT gun assisted Panther",
     methods: "AT gun lifting panther with barrel for maximum possible height",
     worksOn: "",
@@ -66,7 +58,7 @@ data: [
     notes: "Tanks may be lifted with an AT gun barrel under the tank tracks.",
     link: "",
   },{
-    thumb: "drowning reset water.png",
+    thumb: "drowning reset water.jpg",
     name: "Drowning reset jumping",
     methods: "Jumping",
     worksOn: "Most maps with drownable water. PHL is hit or miss.",
@@ -74,7 +66,7 @@ data: [
     notes: "Jump when the timer gets close to 1 second and hope the water is shallow enough.",
     link: "https://youtu.be/fpLzTAIkZvQ",
   },{
-    thumb: "protected supply drops.png",
+    thumb: "protected supply drops.jpg",
     name: "OOB/water supply drops",
     methods: "",
     worksOn: "All maps with inaccessible areas or drownable water",
@@ -82,7 +74,7 @@ data: [
     notes: "",
     link: "",
   },{
-    thumb: "hedge peeking.png",
+    thumb: "hedge peeking.jpg",
     name: "Hedge or wall peeking",
     methods: "Belgian gate, Barricade, Truck",
     worksOn: "Any map with hedges or tall walls",
@@ -90,7 +82,7 @@ data: [
     notes: "",
     link: "https://youtu.be/cKroOrUJzVg",
   },{
-    thumb: "tank hedge peeking.png",
+    thumb: "tank hedge peeking.jpg",
     name: "Tank hedge peeking",
     methods: "2x Barricade, Optional repair station",
     worksOn: "Any map with hedges",
@@ -99,7 +91,7 @@ data: [
     link: "https://youtu.be/0ef4vHM9P6E",
     thanks: "RyanCraig37 (help)",
   },{
-    thumb: "obstruct driver port.png",
+    thumb: "obstruct driver port.jpg",
     name: "Obstruct tank driver view",
     methods: "Jump on top and lay infront of the driver port",
     worksOn: "Any tank",
@@ -107,23 +99,23 @@ data: [
     notes: "",
     link: "",
   },{
-    thumb: "hopper.png",
+    thumb: "hopper.jpg",
     name: "Hoppers",
-    methods: "Prone jump, Vehicle, or Surroundings",
+    methods: "Vehicle, or Surroundings",
     worksOn: "All maps asset is present on",
     usefulFor: "MG positions, Hiding",
-    notes: "",
+    notes: "Can no longer prone jump and must use other assets or a truck or get inside.",
     link: "https://youtu.be/X6xxx8WRQ24",
   },{
-    thumb: "one window attic a.png",
+    thumb: "one window attic a.jpg",
     name: "One window attic house roofs",
-    methods: "Prone jump held spacebar, vehicle, or surroundings",
+    methods: "Crouch jump held spacebar then prone, vehicle, or surroundings",
     worksOn: "Most maps similar assets are present on. Some have invisible walls by the window.",
     usefulFor: "Elevated positions, MG positions on chimneys",
     notes: "Method depends on height of building.",
     link: "https://youtu.be/Op1Bbgbnhm8",
   },{
-    thumb: "bunker garrison.png",
+    thumb: "bunker garrison.jpg",
     name: "German bunker garrisons",
     methods: "Place a level 1 bunker asset, place garrison in the middle, then upgrade bunker to level 3 concrete.",
     worksOn: "",
@@ -131,7 +123,7 @@ data: [
     notes: "Only worth it on offensive in certain situations.",
     link: "https://youtu.be/ZMX_aZm8EPk",
   },{
-    thumb: "bunker gate.png",
+    thumb: "bunker gate.jpg",
     name: "German bunker belgian gate",
     methods: "Place a level 1 bunker asset, place belgian gate in the middle, then upgrade bunker to level 3 concrete.",
     worksOn: "",
@@ -139,15 +131,15 @@ data: [
     notes: "Waste of resources but you can do it!",
     link: "https://youtu.be/MU-gE2_VHMc",
   },{
-    thumb: "building sandbags.png",
+    thumb: "building sandbags.jpg",
     name: "Cafe Normandie sandbags hiding spot",
-    methods: "Prone jump",
+    methods: "Crouch jump",
     worksOn: "All maps where asset is present",
     usefulFor: "Hiding",
     notes: "Door behind the sandbags is not solid and you can hide proning length-wise in the wall.",
     link: "https://youtu.be/tCokjS5aEvY",
   },{
-    thumb: "cafe normandy staircase shortcut.png",
+    thumb: "cafe normandy staircase shortcut.jpg",
     name: "Cafe Normandie staircase shortcut",
     methods: "Prone, Prone jump",
     worksOn: "All maps where asset is present",
@@ -155,7 +147,7 @@ data: [
     notes: "",
     link: "https://youtu.be/Ys7WNVj03QQ",
   },{
-    thumb: "cafe normandie staircase shortcut 2.png",
+    thumb: "cafe normandie staircase shortcut 2.jpg",
     name: "Cafe Normandie staircase shortcut 2",
     methods: "Prone jump, Hold spacebar",
     worksOn: "All maps where asset is present",
@@ -163,7 +155,7 @@ data: [
     notes: "Once prone jumped on the handrail, walk sideways off it and hold space to vault.",
     link: "https://youtu.be/VFg7rPGmJAM",
   },{
-    thumb: "cafe normandy attic glitch.png",
+    thumb: "cafe normandy attic glitch.jpg",
     name: "Cafe Normandie attic window glitch",
     methods: "Prone",
     worksOn: "All maps where asset is present",
@@ -171,7 +163,7 @@ data: [
     notes: "",
     link: "https://youtu.be/4t27p8HdfcM",
   },{
-    thumb: "two window attic.png",
+    thumb: "two window attic.jpg",
     name: "SME large building roof E3",
     methods: "Surroundings",
     worksOn: "",
@@ -179,7 +171,7 @@ data: [
     notes: "Attic window method no longer works as of U13.5. Only method is by jumping from the roofs on the side.",
     link: "https://youtu.be/yOZoIKfnlp0",
   },{
-    thumb: "three door long building.png",
+    thumb: "three door long building.jpg",
     name: "Three door long building roof",
     methods: "Truck assist, Belgian gate, Two-person vaulting",
     worksOn: "Most maps where present. Some instances are blocked. Does not work on SME.",
@@ -188,7 +180,7 @@ data: [
     link: "https://youtu.be/7V4Qga7Pvq8",
     thanks: "xware_dogx (help)",
   },{
-    thumb: "alternate long building.png",
+    thumb: "alternate long building.jpg",
     name: "Alternate long building roof",
     methods: "Truck assist, Belgian gate, Surroundings",
     worksOn: "All maps where asset is present",
@@ -196,7 +188,7 @@ data: [
     notes: "Some of this building type are elevated and truck must be backed up on the ramp.",
     link: "",
   },{
-    thumb: "jagged building roofs.png",
+    thumb: "jagged building roofs.jpg",
     name: "Jagged building roofs",
     methods: "Truck assist, Belgian gate, Surroundings",
     worksOn: "All maps where asset is present",
@@ -204,7 +196,7 @@ data: [
     notes: "Some of this building type are elevated and truck must be backed up on the ramp.",
     link: "https://youtu.be/tkNt-eJo8EM",
   },{
-    thumb: "rail crossing roofs.png",
+    thumb: "rail crossing roofs.jpg",
     name: "Carentan Rail Crossing roofs",
     methods: "Hold spacebar",
     worksOn: "",
@@ -212,7 +204,7 @@ data: [
     notes: "Jump, angle camera, and hold space to correctly vault the large building",
     link: "https://youtu.be/IZkXUZCfE54",
   },{
-    thumb: "rail crossing roofs 2.png",
+    thumb: "rail crossing roofs 2.jpg",
     name: "Carentan Rail Crossing roofs 2",
     methods: "Truck, Hold spacebar",
     worksOn: "",
@@ -220,7 +212,7 @@ data: [
     notes: "Jump, angle camera, and hold space to correctly vault the large building",
     link: "https://youtu.be/ENw7b_3sc8k",
   },{
-    thumb: "customs roofs.png",
+    thumb: "customs roofs.jpg",
     name: "Carentan Customs roofs",
     methods: "Hold spacebar, Surroundings, Prone jump",
     worksOn: "",
@@ -228,7 +220,7 @@ data: [
     notes: "",
     link: "https://youtu.be/GUlUvBgKsTw",
   },{
-    thumb: "barn roof.png",
+    thumb: "barn roof.jpg",
     name: "Barn roofs",
     methods: "Truck, Belgian gate",
     worksOn: "All maps asset is present on",
@@ -236,7 +228,7 @@ data: [
     notes: "While proning on wall corner, rapidly tap left or right (depending on side you are on) and spacebar until it vaults you onto the roof.",
     link: "https://youtu.be/7fRuVdAPSw8",
   },{
-    thumb: "damaged steeple roof.png",
+    thumb: "damaged steeple roof.jpg",
     name: "Large church roof (damaged steeple)",
     methods: "Holding space bar",
     worksOn: "Carentan and Omaha. Does not work on the large churches with an intact steeple.",
@@ -244,7 +236,7 @@ data: [
     notes: "Half of the roof is still inaccessible, small ledge patched in U13.",
     link: "https://youtu.be/rlw7gNvvRdE",
   },{
-    thumb: "damaged steeple backside windows.png",
+    thumb: "damaged steeple backside windows.jpg",
     name: "Large church backside windows",
     methods: "Holding space bar",
     worksOn: "Carentan and Omaha.",
@@ -252,7 +244,7 @@ data: [
     notes: "",
     link: "https://youtu.be/iZ-PbjDF4T0",
   },{
-    thumb: "sme panther to church roof.png",
+    thumb: "sme panther to church roof.jpg",
     name: "SME large church roof",
     methods: "Panther assist using sandbags + Prone jump",
     worksOn: "",
@@ -260,7 +252,7 @@ data: [
     notes: "Impractical for most games.",
     link: "https://youtu.be/1Wg9hq1BL00",
   },{
-    thumb: "sme church airhead.png",
+    thumb: "sme church airhead.jpg",
     name: "SME large church airhead",
     methods: "Drop an airhead inside the church",
     worksOn: "",
@@ -268,7 +260,7 @@ data: [
     notes: "Only useful in specific situations, not much otherwise. Only lights up green if infantry inside are not in the way.",
     link: "https://youtu.be/_TKZ0PYxHHQ",
   },{
-    thumb: "destroyed building corner.png",
+    thumb: "destroyed building corner.jpg",
     name: "Destroyed building corners",
     methods: "Holding space bar",
     worksOn: "All maps where present",
@@ -276,7 +268,7 @@ data: [
     notes: "",
     link: "https://youtu.be/0AUbjMcHuUE",
   },{
-    thumb: "destroyed building chimney.png",
+    thumb: "destroyed building chimney.jpg",
     name: "Destroyed building chimney",
     methods: "Run and jump",
     worksOn: "Most maps where present. Does not work on Carentan.",
@@ -284,15 +276,15 @@ data: [
     notes: "Most useful one is the chimney on PHL Carentan Causeway.",
     link: "https://youtu.be/1s5sTrPhnIc",
   },{
-    thumb: "parkour assets.png",
+    thumb: "parkour assets.jpg",
     name: "Town assets parkour",
-    methods: "Prone jump, Hold spacebar, Truck assist, Surroundings",
+    methods: "Crouch jump, Hold spacebar, Truck assist, Surroundings",
     worksOn: "",
     usefulFor: "Slightly elevated positions, MG positions",
     notes: "Various assets in towns are usually solid: (street) lamps, awnings, shutters, sandbags, storefronts.",
     link: "https://youtu.be/Bg-F1FTogSc",
   },{
-    thumb: "canal boat crossing.png",
+    thumb: "canal boat crossing.jpg",
     name: "Carentan canal boat crossing",
     methods: "1st or 2nd gear",
     worksOn: "",
@@ -300,7 +292,7 @@ data: [
     notes: "Panther can go both directions. US medium and heavy can cross west to east. Be careful on the turn, it can be easy to fall in the river.",
     link: "https://youtu.be/TRRr6C_Vv8E",
   },{
-    thumb: "carentan river crossing 1.png",
+    thumb: "carentan river crossing 1.jpg",
     name: "Carentan river crossing #1",
     methods: "Jeep, Truck, Light or Recon tank, Halftrack",
     worksOn: "",
@@ -308,7 +300,7 @@ data: [
     notes: "Most useful at match start to build garry by water edge. Will take engine damage since U13.",
     link: "https://youtu.be/E-Q_lb65OoU",
   },{
-    thumb: "carentan river crossing 2.png",
+    thumb: "carentan river crossing 2.jpg",
     name: "Carentan river crossing #2",
     methods: "Jeep, Truck, Light or Recon tank, Halftrack",
     worksOn: "Crossing quicker, Alternate route",
@@ -316,7 +308,7 @@ data: [
     notes: "Not worth it in most situations. Will take engine damage since U13.",
     link: "https://youtu.be/98ctGaNRoGU",
   },{
-    thumb: "carentan river crossing 3.png",
+    thumb: "carentan river crossing 3.jpg",
     name: "Carentan river crossing #3",
     methods: "Jeep, Truck, Light or Recon tank, Halftrack",
     worksOn: "",
@@ -324,7 +316,7 @@ data: [
     notes: "Not worth it in most situations. Will take engine damage since U13.",
     link: "https://youtu.be/Vj0s-PYWAhI",
   },{
-    thumb: "carentan river crossing 4.png",
+    thumb: "carentan river crossing 4.jpg",
     name: "Carentan river crossing #4",
     methods: "Any vehicle or tank, Drowning reset jumping",
     worksOn: "",
@@ -332,7 +324,7 @@ data: [
     notes: "Will take engine damage since U13",
     link: "https://youtu.be/fpLzTAIkZvQ",
   },{
-    thumb: "centrale electrique building roof.png",
+    thumb: "centrale electrique building roof.jpg",
     name: "Centrale Electrique building roofs",
     methods: "Panther assist with belgian gate",
     worksOn: "",
@@ -341,7 +333,7 @@ data: [
     link: "",
     thanks: "RyanCraig37 (help)",
   },{
-    thumb: "centrale electrique building halftracks.png",
+    thumb: "centrale electrique building halftracks.jpg",
     name: "Centrale Electrique building halftracks",
     methods: "Halftrack",
     worksOn: "All maps asset is present on",
@@ -349,7 +341,7 @@ data: [
     notes: "",
     link: "https://youtu.be/DyfV-9BnwvM",
   },{
-    thumb: "halftrack carry supplies ammo.png",
+    thumb: "halftrack carry supplies ammo.jpg",
     name: "Halftracks carrying supply and ammo drops",
     methods: "Halftrack",
     worksOn: "",
@@ -357,7 +349,7 @@ data: [
     notes: "Works best with the US halftrack as dropped supplies are smaller.",
     link: "https://youtu.be/jk_qrlShERU",
   },{
-    thumb: "smdm panther to church roof.png",
+    thumb: "smdm panther to church roof.jpg",
     name: "SMDM large church roof",
     methods: "Panther assist using player built assets + prone jump",
     worksOn: "",
@@ -365,7 +357,7 @@ data: [
     notes: "Impractical for most games.",
     link: "https://youtu.be/O7cbmBZOd0A",
   },{
-    thumb: "smdm jeep around the town.png",
+    thumb: "smdm jeep around the town.jpg",
     name: "Out of bounds around SMDM",
     methods: "Jeep",
     worksOn: "",
@@ -373,7 +365,7 @@ data: [
     notes: "Impractical for most games.",
     link: "https://youtu.be/ljPQKpdMnVs",
   },{
-    thumb: "smdm plane wing.png",
+    thumb: "smdm plane wing.jpg",
     name: "SMDM drivable plane wing",
     methods: "",
     worksOn: "Pierre's Farm glider only",
@@ -381,7 +373,7 @@ data: [
     notes: "All other gliders have invisible walls preventing this.",
     link: "",
   },{
-    thumb: "smdm church halftrack.png",
+    thumb: "smdm church halftrack.jpg",
     name: "SMDM church halftrack",
     methods: "",
     worksOn: "",
@@ -389,7 +381,7 @@ data: [
     notes: "Most vehicles can drive into here.",
     link: "https://youtu.be/K5bx4aViPew",
   },{
-    thumb: "small church roof.png",
+    thumb: "small church roof.jpg",
     name: "Small church roof",
     methods: "Prone jump, Hold spacebar",
     worksOn: "All maps asset is present on",
@@ -397,7 +389,7 @@ data: [
     notes: "",
     link: "https://youtu.be/LCO5GaJ8qWA",
   },{
-    thumb: "small church head glitch.png",
+    thumb: "small church head glitch.jpg",
     name: "Small church roof head glitch",
     methods: "Run jump holding spacebar and shift the camera mid jump",
     worksOn: "All maps asset is present on",
@@ -405,7 +397,7 @@ data: [
     notes: "Inconsistent and common to waste all bandages trying to do it. From the outside, only the head is seen and you can shoot out from there.",
     link: "https://youtu.be/t6psBHMiQpc",
   },{
-    thumb: "small church inner spots.png",
+    thumb: "small church inner spots.jpg",
     name: "Small church inner spots",
     methods: "Hold spacebar",
     worksOn: "All maps asset is present on",
@@ -413,7 +405,7 @@ data: [
     notes: "Hiding, Unexpected position",
     link: "https://youtu.be/mva85XgBERo",
   },{
-    thumb: "kharkov church spot 1.png",
+    thumb: "kharkov church spot 1.jpg",
     name: "Kharkov church spot #1",
     methods: "Prone jump, Hold spacebar",
     worksOn: "",
@@ -421,7 +413,7 @@ data: [
     notes: "",
     link: "https://youtu.be/nLVyPwRRdus",
   },{
-    thumb: "kharkov church spot 2.png",
+    thumb: "kharkov church spot 2.jpg",
     name: "Kharkov church spot #2",
     methods: "Prone jump, Hold spacebar",
     worksOn: "",
@@ -429,7 +421,7 @@ data: [
     notes: "",
     link: "https://youtu.be/pEssj6xrL4c",
   },{
-    thumb: "omaha big house f4.png",
+    thumb: "omaha big house f4.jpg",
     name: "Omaha big house F4 roof",
     methods: "Panther assist on box asset",
     worksOn: "",
@@ -437,7 +429,7 @@ data: [
     notes: "Impractical for most matches.",
     link: "https://youtu.be/XAKEn71QETI",
   },{
-    thumb: "omaha tin roofs.png",
+    thumb: "omaha tin roofs.jpg",
     name: "Omaha spawns on tin roofs",
     methods: "Simple vaulting",
     worksOn: "",
@@ -445,7 +437,7 @@ data: [
     notes: "You can place OPs, garrisons, and drop airheads on select tin roofs and spawn on them. The one in F3 is the most useful.",
     link: "",
   },{
-    thumb: "west vierville gate.png",
+    thumb: "west vierville gate.jpg",
     name: "Omaha West Vierville invisible roof",
     methods: "Belgian gate",
     worksOn: "",
@@ -453,7 +445,7 @@ data: [
     notes: "",
     link: "https://youtu.be/rim_ux03Xhg",
   },{
-    thumb: "west vierville north roofset.png",
+    thumb: "west vierville north roofset.jpg",
     name: "Omaha West Vierville north roofset",
     methods: "Prone jump, Normal vaulting",
     worksOn: "",
@@ -461,7 +453,7 @@ data: [
     notes: "Garrison can also be placed on tin roof. Attic window method no longer works as of U13.5. ",
     link: "https://youtu.be/-sgcdqHvUt0",
   },{
-    thumb: "west vierville panther roofset.png",
+    thumb: "west vierville panther roofset.jpg",
     name: "Omaha West Vierville panther roofset",
     methods: "Repair station + Belgian gate + OP + Panther",
     worksOn: "",
@@ -470,7 +462,7 @@ data: [
     link: "https://youtu.be/lU9lzZ7acR4",
     thanks: "RyanCraig37 (help)",
   },{
-    thumb: "west vierville tank window.png",
+    thumb: "west vierville tank window.jpg",
     name: "Omaha West Vierville tank window",
     methods: "",
     worksOn: "",
@@ -478,7 +470,7 @@ data: [
     notes: "",
     link: "https://youtu.be/5sBf1egQ1Ds",
   },{
-    thumb: "kharkov spawn house 2.png",
+    thumb: "kharkov spawn house 2.jpg",
     name: "Kharkov build in two-story houses",
     methods: "",
     worksOn: "",
@@ -486,7 +478,7 @@ data: [
     notes: "You can also build repair stations in these.",
     link: "",
   },{
-    thumb: "kharkov spawn house 1.png",
+    thumb: "kharkov spawn house 1.jpg",
     name: "Kharkov build in snowy back section",
     methods: "",
     worksOn: "",
@@ -494,7 +486,7 @@ data: [
     notes: "",
     link: "",
   },{
-    thumb: "kharkov shed.png",
+    thumb: "kharkov shed.jpg",
     name: "Kharkov OPs in sheds",
     methods: "",
     worksOn: "",
@@ -502,7 +494,7 @@ data: [
     notes: "",
     link: "",
   },{
-    thumb: "kharkov spawn church.png",
+    thumb: "kharkov spawn church.jpg",
     name: "Kharkov spawns in the church",
     methods: "",
     worksOn: "",
@@ -510,7 +502,7 @@ data: [
     notes: "",
     link: "",
   },{
-    thumb: "omaha far boat.png",
+    thumb: "omaha far boat.jpg",
     name: "Omaha J4 far boat access",
     methods: "Truck, drowning jump reset",
     worksOn: "",
@@ -518,7 +510,7 @@ data: [
     notes: "",
     link: "https://youtu.be/mOui_EbC4S0",
   },{
-    thumb: "sme roofset 2.png",
+    thumb: "sme roofset 2.jpg",
     name: "SME roofset 1",
     methods: "Truck, Prone jump hold spacebar",
     worksOn: "",
@@ -526,7 +518,7 @@ data: [
     notes: "",
     link: "https://youtu.be/MtNWzaeoJPY",
   },{
-    thumb: "sme roofset 1.png",
+    thumb: "sme roofset 1.jpg",
     name: "SME roofset 2",
     methods: "Prone jump hold spacebar",
     worksOn: "",
@@ -534,7 +526,7 @@ data: [
     notes: "",
     link: "https://youtu.be/zMs48gKuSTo",
   },{
-    thumb: "sme spawn houses.png",
+    thumb: "sme spawn houses.jpg",
     name: "Outpost houses",
     methods: "",
     worksOn: "Most houses on SME, Some on Foy, Omaha",
@@ -542,7 +534,7 @@ data: [
     notes: "",
     link: "",
   },{
-    thumb: "sme garry houses.png",
+    thumb: "sme garry houses.jpg",
     name: "Garrison houses",
     methods: "",
     worksOn: "Select houses on SME, Foy",
@@ -550,7 +542,7 @@ data: [
     notes: "Difficult to get it to light up. Depends on layout of second floor if possible.",
     link: "",
   },{
-    thumb: "sme spawn in closed house.png",
+    thumb: "sme spawn in closed house.jpg",
     name: "SME spawns in closed house",
     methods: "Prone jump hold space, OP next to wall in open building",
     worksOn: "",
@@ -558,7 +550,7 @@ data: [
     notes: "Window of closed house is not solid. Once on the roof you can go inside and place a spawn inside. You will have to bandage jumping down.",
     link: "https://youtu.be/1vCLx_aFgRk",
   },{
-    thumb: "smdm closed building.png",
+    thumb: "smdm closed building.jpg",
     name: "SMDM inside closed houses",
     methods: "",
     worksOn: "",
@@ -566,7 +558,7 @@ data: [
     notes: "Place OP as close to wall as possible and you will spawn inside",
     link: "https://youtu.be/38MLlNHuwbg",
   },{
-    thumb: "red roof houses.png",
+    thumb: "red roof houses.jpg",
     name: "L shaped red roofed house roofs",
     methods: "Truck, Prone jump x2",
     worksOn: "All maps asset is present on",
@@ -574,7 +566,7 @@ data: [
     notes: "",
     link: "https://youtu.be/n-Np0_B_0Ko",
   },{
-    thumb: "grudinins mill at gun.png",
+    thumb: "grudinins mill at gun.jpg",
     name: "Stalingrad Grudinin's Mill AT Guns",
     methods: "",
     worksOn: "",
@@ -582,7 +574,7 @@ data: [
     notes: "Can be placed on the top floor and floor below. Spawns and many other things can be built inside here too.",
     link: "https://youtu.be/b2DxPxVssQU",
   },{
-    thumb: "stalingrad pavlovs at gun.png",
+    thumb: "stalingrad pavlovs at gun.jpg",
     name: "Stalingrad Pavlov's AT Gun",
     methods: "",
     worksOn: "",
@@ -590,7 +582,7 @@ data: [
     notes: "Can be placed all along the top floor. Alternative if Grudinin's not an option.",
     link: "https://youtu.be/NoptSZqkmF4",
   },{
-    thumb: "stalingrad h3 at gun.png",
+    thumb: "stalingrad h3 at gun.jpg",
     name: "Stalingrad H3 Building AT Guns",
     methods: "",
     worksOn: "",
@@ -598,7 +590,7 @@ data: [
     notes: "Can be placed in two places.",
     link: "https://youtu.be/Id64e9-HvzQ",
   },{
-    thumb: "carentan elevator glitch.png",
+    thumb: "carentan elevator glitch.jpg",
     name: "Carentan elevator glitch",
     methods: "",
     worksOn: "Only this specific spot, no others",
@@ -606,7 +598,7 @@ data: [
     notes: "This should be patched. However, anyone up here is very vulnerable and there is no safe way down without dying from fall damage. Also, if you do this in real matches people will think you are hacking.",
     link: "https://youtu.be/u6VxJYbPYSg",
   },{
-    thumb: "hill 400 river crossing.png",
+    thumb: "hill 400 river crossing.jpg",
     name: "Hill 400 river crossing",
     methods: "Truck",
     worksOn: "",
@@ -614,7 +606,7 @@ data: [
     notes: "",
     link: "https://youtu.be/nFt-wERo4GM",
   },{
-    thumb: "phl river crossing.png",
+    thumb: "phl river crossing.jpg",
     name: "PHL river crossing",
     methods: "Truck",
     worksOn: "",
@@ -622,7 +614,7 @@ data: [
     notes: "Will take engine damage since U13",
     link: "",
   },{
-    thumb: "hurtgen mid river crossing.png",
+    thumb: "hurtgen mid river crossing.jpg",
     name: "Hurtgen mid river crossing",
     methods: "Any vehicle",
     worksOn: "",
@@ -630,7 +622,7 @@ data: [
     notes: "Tank needs to take a slightly longer route and should slow down on the turn",
     link: "https://youtu.be/reaS_cp4Qbo",
   },{
-    thumb: "hurtgen north river crossing.png",
+    thumb: "hurtgen north river crossing.jpg",
     name: "Hurtgen north river crossing",
     methods: "Truck",
     worksOn: "",
@@ -638,7 +630,7 @@ data: [
     notes: "Will take engine damage since U13",
     link: "https://youtu.be/HixfoYU6xVg",
   },{
-    thumb: "radar tower garry.png",
+    thumb: "radar tower garry.jpg",
     name: "Radar tower garry",
     methods: "",
     worksOn: "All maps asset is present on",
@@ -646,7 +638,7 @@ data: [
     notes: "",
     link: "",
   },{
-    thumb: "radar tower at gun.png",
+    thumb: "radar tower at gun.jpg",
     name: "Radar tower AT gun",
     methods: "",
     worksOn: "All maps asset is present on",
@@ -654,7 +646,7 @@ data: [
     notes: "Anything can be built on top as well.",
     link: "",
   },{
-    thumb: "radar tower tanks.png",
+    thumb: "radar tower tanks.jpg",
     name: "Radar tower tanks",
     methods: "",
     worksOn: "Most maps asset is present on",
@@ -662,7 +654,7 @@ data: [
     notes: "Drive up the angled corner piece",
     link: "",
   },{
-    thumb: "foy damaged roof.png",
+    thumb: "foy damaged roof.jpg",
     name: "Foy damaged roof spot",
     methods: "",
     worksOn: "",
@@ -670,7 +662,7 @@ data: [
     notes: "",
     link: "https://youtu.be/m9ENdDdWyVs",
   },{
-    thumb: "foy big tree.png",
+    thumb: "foy big tree.jpg",
     name: "Foy big tree hiding spots",
     methods: "Truck, Surroundings",
     worksOn: "",
@@ -679,7 +671,7 @@ data: [
     link: "https://youtu.be/-IPmoX_bokg",
     thanks: "Babyburn (partial tip)",
   },{
-    thumb: "carentan big tree.png",
+    thumb: "carentan big tree.jpg",
     name: "Carentan big tree hiding spot",
     methods: "Truck, Surroundings",
     worksOn: "",
@@ -688,7 +680,7 @@ data: [
     link: "https://youtu.be/aYjoaLvJ8rI",
     thanks: "Babyburn (tip)",
   },{
-    thumb: "carentan various tree hiding spots.png",
+    thumb: "carentan various tree hiding spots.jpg",
     name: "Carentan various trees hiding spots",
     methods: "Surroundings",
     worksOn: "",
@@ -697,7 +689,7 @@ data: [
     link: "https://youtu.be/FnYhAM7CL7Y",
     thanks: "Babyburn (tip)",
   },{
-    thumb: "town center statue.png",
+    thumb: "town center statue.jpg",
     name: "Carentan Town Center statue",
     methods: "Panther assist",
     worksOn: "",
@@ -705,7 +697,7 @@ data: [
     notes: "",
     link: "https://youtu.be/7qSkEiq8KhY",
   },{
-    thumb: "yellow house attic.png",
+    thumb: "yellow house attic.jpg",
     name: "Yellow House attic from furnace",
     methods: "Hold spacebar",
     worksOn: "Stalingrad, Kursk",
@@ -713,7 +705,7 @@ data: [
     notes: "",
     link: "https://youtu.be/YRL0K7Fv3Sk",
   },{
-    thumb: "yellow house door.png",
+    thumb: "yellow house door.jpg",
     name: "Yellow House roof from door",
     methods: "Hold spacebar",
     worksOn: "Stalingrad, Kursk",
@@ -721,7 +713,7 @@ data: [
     notes: "",
     link: "https://youtu.be/JG6d7XyUiro",
   },{
-    thumb: "windmill hiding spot.png",
+    thumb: "windmill hiding spot.jpg",
     name: "Windmill top floor hiding spot",
     methods: "Prone jump x2",
     worksOn: "Kursk, Kharkov",
@@ -729,7 +721,7 @@ data: [
     notes: "",
     link: "https://youtu.be/1fvBGH-CoSE",
   },{
-    thumb: "remagen underside north.png",
+    thumb: "remagen underside north.jpg",
     name: "Remagen bridge underside north crossing",
     methods: "Drowning reset jumping",
     worksOn: "",
@@ -737,7 +729,7 @@ data: [
     notes: "",
     link: "https://youtu.be/i_bbqTdtFAc",
   },{
-    thumb: "remagen underside south.png",
+    thumb: "remagen underside south.jpg",
     name: "Remagen bridge underside south crossing",
     methods: "Drowning reset jumping",
     worksOn: "",
@@ -745,7 +737,7 @@ data: [
     notes: "More difficult to do. Start from the left. Helps to hold shift as you move slightly faster in the water and continually jump to reset the timer.",
     link: "https://youtu.be/01rmRAaK9Ts",
   },{
-    thumb: "remagen underside chimney.png",
+    thumb: "remagen underside chimney.jpg",
     name: "Remagen underside MG chimney",
     methods: "Destroyed building chimney",
     worksOn: "",
@@ -753,7 +745,7 @@ data: [
     notes: "",
     link: "https://youtu.be/1s5sTrPhnIc",
   },{
-    thumb: "remagen underside rock.png",
+    thumb: "remagen underside rock.jpg",
     name: "Remagen underside MG rock",
     methods: "",
     worksOn: "",
@@ -761,7 +753,7 @@ data: [
     notes: "",
     link: "https://youtu.be/XguXy9E-lI0",
   },{
-    thumb: "remagen underside rock 2.png",
+    thumb: "remagen underside rock 2.jpg",
     name: "Remagen underside MG rock 2",
     methods: "",
     worksOn: "",
@@ -769,7 +761,7 @@ data: [
     notes: "",
     link: "https://youtu.be/ZtmuwayhDX0",
   },{
-    thumb: "t70 yeet panther.png",
+    thumb: "t70 yeet panther.jpg",
     name: "T-70 yeet Panther out of bounds",
     methods: "",
     worksOn: "Soviet maps only",
@@ -777,7 +769,7 @@ data: [
     notes: "Untested. T-70 can scoop and carry the Panther easily and they can rarely get out of it. Worthwhile fuel trade, T-70 is destroyed too.",
     link: "https://youtu.be/bv5wcShUoOY",
   },{
-    thumb: "foy tank snipe.png",
+    thumb: "foy tank snipe.jpg",
     name: "Foy tank snipe US mid warmup",
     methods: "Panzer IV",
     worksOn: "",
@@ -786,43 +778,43 @@ data: [
     link: "https://youtu.be/YlKW_ahQWm8",
     thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
-    thumb: "phl tank snipe.png",
+    thumb: "phl tank snipe.jpg",
     name: "PHL tank snipe US mid warmup",
     methods: "Puma",
     worksOn: "",
     usefulFor: "Match start advantage",
-    notes: "Puma spawns right next to spot, plenty of time to setup.  See: <a href='./assets/phl tank snipe reference.png' target='_blank'>aim reference</a>",
+    notes: "Puma spawns right next to spot, plenty of time to setup.  See: <a href='./assets/phl tank snipe reference.jpg' target='_blank'>aim reference</a>",
     link: "https://youtu.be/0C03WCNF5Pc",
     thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
-    thumb: "utah tank snipe 1.png",
+    thumb: "utah tank snipe 1.jpg",
     name: "Utah tank snipe GER bottom warmup",
     methods: "Stuart",
     worksOn: "",
     usefulFor: "Match start advantage",
-    notes: "Plenty of time to setup. See: <a href='./assets/utah tank snipe 1 reference.png' target='_blank'>aim reference</a>",
+    notes: "Plenty of time to setup. See: <a href='./assets/utah tank snipe 1 reference.jpg' target='_blank'>aim reference</a>",
     link: "https://youtu.be/IzMqvh8D_Ww",
     thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
-    thumb: "utah tank snipe 2.png",
+    thumb: "utah tank snipe 2.jpg",
     name: "Utah tank snipe GER mid warmup",
     methods: "Stuart",
     worksOn: "",
     usefulFor: "Match start advantage",
-    notes: "Plenty of time to setup. See: <a href='./assets/utah tank snipe 2 reference.png' target='_blank'>aim reference</a>",
+    notes: "Plenty of time to setup. See: <a href='./assets/utah tank snipe 2 reference.jpg' target='_blank'>aim reference</a>",
     link: "https://youtu.be/_doJPLLYh2E",
     thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
-    thumb: "remagen tank snipe us mid warmup.png",
+    thumb: "remagen tank snipe us mid warmup.jpg",
     name: "Remagen tank snipe US mid warmup",
     methods: "Puma",
     worksOn: "",
     usefulFor: "Match start advantage",
-    notes: "Plenty of time to setup. See: <a href='./assets/remagen tank snipe us mid warmup reference.png' target='_blank'>aim reference</a>",
+    notes: "Plenty of time to setup. See: <a href='./assets/remagen tank snipe us mid warmup reference.jpg' target='_blank'>aim reference</a>",
     link: "https://youtu.be/NIvt7RF2e5k",
     thanks: "Raz_Bora & RyanCraig37 (idea)",
   },{
-    thumb: "hurtgen tank snipe top us warmup.png",
+    thumb: "hurtgen tank snipe top us warmup.jpg",
     name: "Hurtgen tank snipe US top warmup",
     methods: "Panzer IV",
     worksOn: "",
@@ -830,23 +822,23 @@ data: [
     notes: "Untested. Plenty of time to setup. Difficult due to number of trees.",
     link: "",
   },{
-    thumb: "carentan tank snipe town center garry.png",
+    thumb: "carentan tank snipe town center garry.jpg",
     name: "Carentan tank snipe Town Center garry",
     methods: "Any tank, HE rounds",
     worksOn: "",
     usefulFor: "Most common garry denial",
-    notes: "Easiest for the germans and only easy for the US if Mont isn't the point. See: <a href='./assets/carentan tank snipe town center garry reference.png' target='_blank'>aim reference</a>",
+    notes: "Easiest for the germans and only easy for the US if Mont isn't the point. See: <a href='./assets/carentan tank snipe town center garry reference.jpg' target='_blank'>aim reference</a>",
     link: "https://youtu.be/UPiiwUZpbd0",
   },{
-    thumb: "carentan tank snipe train station backup garry.png",
+    thumb: "carentan tank snipe train station backup garry.jpg",
     name: "Carentan tank snipe Train Station backup garry",
     methods: "Any tank, HE rounds",
     worksOn: "",
     usefulFor: "",
-    notes: "See: <a href='./assets/carentan tank snipe train station backup garry reference.png' target='_blank'>aim reference</a>",
+    notes: "See: <a href='./assets/carentan tank snipe train station backup garry reference.jpg' target='_blank'>aim reference</a>",
     link: "https://youtu.be/wmMRlNf8Caw",
   },{
-    thumb: "stalingrad tank snipe carriage depot warmup truck.png",
+    thumb: "stalingrad tank snipe carriage depot warmup truck.jpg",
     name: "Stalingrad tank snipe Carriage Depot warmup truck",
     methods: "Recon tank",
     worksOn: "",
@@ -854,7 +846,7 @@ data: [
     notes: "Untested. Drive a little past the warmup barrier once it drops then wait for the truck to appear in the 1000m render radius.",
     link: "",
   },{
-    thumb: "smdm church road snipe.png",
+    thumb: "smdm church road snipe.jpg",
     name: "SMDM snipe church road",
     methods: "AT gun, Any Tank",
     worksOn: "",
@@ -974,7 +966,7 @@ data: [
     notes: "",
     link: "",
   },{
-    thumb: "quick dismantle.png",
+    thumb: "quick dismantle.jpg",
     name: "Quick dismantle exploit (Console only)",
     methods: "Alternate between dismantle and the map over and over",
     worksOn: "",
@@ -986,7 +978,16 @@ data: [
 
 old_data: [
   {
-    thumb: "truck neutral.png",
+    thumb: "prone jump.jpg",
+    name: "Prone jumping",
+    methods: "Jump then prone mid air quickly",
+    worksOn: "",
+    usefulFor: "Getting on non-vaultable objects.",
+    notes: "If it's not listed here, try prone jumping to it.",
+    link: "https://youtu.be/AW6APCPBGCc",
+  },
+  {
+    thumb: "truck neutral.jpg",
     name: "Truck neutral to 60 kph",
     methods: "Down a hill turn off the engine and spam E a few times then coast",
     worksOn: "Any map with hills: Hurtgen, Remagen, Hill 400, Foy",
@@ -994,7 +995,7 @@ old_data: [
     notes: "Soviet trucks behave differently and E must be spammed the entire time",
     link: "https://youtu.be/UKhwwlWsikQ",
   },{
-    thumb: "radar tower high at gun.png",
+    thumb: "radar tower high at gun.jpg",
     name: "Radar Tower High AT Gun",
     methods: "Airhead onto top of tower",
     worksOn: "All maps asset is present on",
@@ -1002,7 +1003,7 @@ old_data: [
     notes: "",
     link: "https://www.twitch.tv/cidibeats/clip/KitschyManlyWalletEleGiggle-3d7Z9nFLTnHK8SLz",
   },{
-    thumb: "two window attic.png",
+    thumb: "two window attic.jpg",
     name: "Two window attic house roofs",
     methods: "Prone jump on attic window sides",
     worksOn: "Select instances of building on SME, Carentan, Omaha, and Hill 400. Some do not work.",
@@ -1010,7 +1011,7 @@ old_data: [
     notes: "",
     link: "https://youtu.be/yOZoIKfnlp0",
   },{
-    thumb: "kharkov church spot 3.png",
+    thumb: "kharkov church spot 3.jpg",
     name: "Kharkov church hiding spot",
     methods: "",
     worksOn: "",
@@ -1018,7 +1019,7 @@ old_data: [
     notes: "Part of the wall on the second floor isn't solid and you can prone inside.",
     link: "https://youtu.be/0fiNZ2gscWw",
   },{
-    thumb: "brecourt manor hiding spot 1.png",
+    thumb: "brecourt manor hiding spot 1.jpg",
     name: "SMDM Brecourt Manor hiding spot 1",
     methods: "",
     worksOn: "",
@@ -1026,7 +1027,7 @@ old_data: [
     notes: "You can place OPs inside",
     link: "https://youtu.be/zR3ejk08aGg",
   },{
-    thumb: "brecourt manor hiding spot 2.png",
+    thumb: "brecourt manor hiding spot 2.jpg",
     name: "SMDM Brecourt Manor hiding spot 2",
     methods: "Truck, Hold spacebar",
     worksOn: "",
