@@ -31,12 +31,15 @@ canvas {
     /*border: 2px rgba(127,127,127,0.25) dashed;*/
     border-radius: 5px;
 }
+
 canvas.drag-mode {
     cursor: grab !important;
 }
+
 canvas.draw-mode {
     cursor: crosshair !important;
 }
+
 canvas.polygon-mode {
     cursor: crosshair !important;
 }
@@ -49,24 +52,31 @@ canvas.polygon-mode {
     cursor: pointer;
     text-align: center;
 }
+
 .color.blue {
     background-color: #0080ff;
 }
+
 .color.red {
     background-color: #ff8080;
 }
+
 .color.selected {
     border: 3px dashed lawngreen;
 }
+
 #text-color-div, #shape-color-div, #line-color-div {
     flex-wrap: wrap;
 }
+
 #line-color-div span {
     margin-left: 5px;
 }
+
 #shape-color-div span {
     margin-left: 5px;
 }
+
 #text-color-div span {
     margin-left: 5px;
 }
@@ -74,6 +84,7 @@ canvas.polygon-mode {
 .new-slide {
     margin-bottom: 3px
 }
+
 .new-slide .bi-trash-fill {
     color: red;
 }
@@ -81,6 +92,7 @@ canvas.polygon-mode {
 .slide {
     margin-bottom: 3px
 }
+
 .slide .bi-trash-fill {
     color: red;
 }
@@ -125,11 +137,11 @@ ul {
 }
 
 .navbar-brand {
-    font-size: 1.75rem!important;
+    font-size: 1.75rem !important;
 }
 
 .navbar {
-    font-size: 1.5rem!important;
+    font-size: 1.5rem !important;
 }
 
 .navbar-brand img {
@@ -268,6 +280,7 @@ html.dark .progress-bar {
         height: 450px;
     }
 }
+
 @media only screen and (min-width: 769px) {
     #canvas-container {
         height: 800px;
