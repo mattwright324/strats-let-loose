@@ -389,22 +389,6 @@ data: [
     notes: "",
     link: "https://youtu.be/LCO5GaJ8qWA",
   },{
-    thumb: "small church head glitch.webp",
-    name: "Small church roof head glitch",
-    methods: "Run jump holding spacebar and shift the camera mid jump",
-    worksOn: "All maps asset is present on",
-    usefulFor: "Elevated position",
-    notes: "Inconsistent and common to waste all bandages trying to do it. From the outside, only the head is seen and you can shoot out from there.",
-    link: "https://youtu.be/t6psBHMiQpc",
-  },{
-    thumb: "small church inner spots.webp",
-    name: "Small church inner spots",
-    methods: "Hold spacebar",
-    worksOn: "All maps asset is present on",
-    usefulFor: "Elevated unexpected position",
-    notes: "Hiding, Unexpected position",
-    link: "https://youtu.be/mva85XgBERo",
-  },{
     thumb: "kharkov church spot 1.webp",
     name: "Kharkov church spot #1",
     methods: "Prone jump, Hold spacebar",
@@ -589,14 +573,6 @@ data: [
     usefulFor: "Train Station mid point",
     notes: "Can be placed in two places.",
     link: "https://youtu.be/Id64e9-HvzQ",
-  },{
-    thumb: "carentan elevator glitch.webp",
-    name: "Carentan elevator glitch",
-    methods: "",
-    worksOn: "Only this specific spot, no others",
-    usefulFor: "Elevated position, Fun",
-    notes: "This should be patched. However, anyone up here is very vulnerable and there is no safe way down without dying from fall damage. Also, if you do this in real matches people will think you are hacking.",
-    link: "https://youtu.be/u6VxJYbPYSg",
   },{
     thumb: "hill 400 river crossing.webp",
     name: "Hill 400 river crossing",
@@ -1066,6 +1042,30 @@ old_data: [
       "https://youtu.be/MULsT3ASEzk",
     ],
     tranks: "Babyburn (help)",
+  },{
+    thumb: "carentan elevator glitch.webp",
+    name: "Carentan elevator glitch",
+    methods: "",
+    worksOn: "Only this specific spot, no others",
+    usefulFor: "Elevated position, Fun",
+    notes: "However, anyone up here is very vulnerable and there is no safe way down without dying from fall damage. Also, if you do this in real matches people will think you are hacking.",
+    link: "https://youtu.be/u6VxJYbPYSg",
+  },{
+    thumb: "small church head glitch.webp",
+    name: "Small church roof head glitch",
+    methods: "Run jump holding spacebar and shift the camera mid jump",
+    worksOn: "All maps asset is present on",
+    usefulFor: "Elevated position",
+    notes: "Patched with vaulting changes. Inconsistent and common to waste all bandages trying to do it. From the outside, only the head is seen and you can shoot out from there.",
+    link: "https://youtu.be/t6psBHMiQpc",
+  },{
+    thumb: "small church inner spots.webp",
+    name: "Small church inner spots",
+    methods: "Hold spacebar",
+    worksOn: "All maps asset is present on",
+    usefulFor: "Elevated unexpected position",
+    notes: "Patched with vaulting changes.",
+    link: "https://youtu.be/mva85XgBERo",
   }
 ]
 
