@@ -33,6 +33,7 @@ title: Strats Let Loose
         </li>
     </ul>
 
+    <br>
     <h2>Strats</h2>
     <p>Forbidden knowledge</p>
 
@@ -55,6 +56,10 @@ title: Strats Let Loose
                                 {% if strat.thanks %}
                                 <i class="bi bi-info-circle" data-bs-toggle="tooltip"
                                    data-bs-title="Thanks: {{strat.thanks}}"></i>
+                                {% endif %}
+                                {% if strat.credit %}
+                                <i class="bi bi-info-circle" data-bs-toggle="tooltip"
+                                   data-bs-title="Credit: {{strat.credit}}"></i>
                                 {% endif %}
                             </h5>
                             {% if strat.methods != "" %}
@@ -101,7 +106,7 @@ title: Strats Let Loose
         {% endfor %}
     </div>
 
-    <h2>Old strats</h2>
+    <h2 style="margin-top:25px">Old strats</h2>
     <p>Strats that have since been patched and no longer work.</p>
 
     <div class="row">
@@ -123,6 +128,10 @@ title: Strats Let Loose
                                 {% if strat.thanks %}
                                 <i class="bi bi-info-circle" data-bs-toggle="tooltip"
                                    data-bs-title="Thanks: {{strat.thanks}}"></i>
+                                {% endif %}
+                                {% if strat.credit %}
+                                <i class="bi bi-info-circle" data-bs-toggle="tooltip"
+                                   data-bs-title="Credit: {{strat.credit}}"></i>
                                 {% endif %}
                             </h5>
                             {% if strat.methods != "" %}
@@ -168,7 +177,7 @@ title: Strats Let Loose
         {% endif %}
         {% endfor %}
 
-        <h2>Unconfirmed</h2>
+        <h2 style="margin-top:25px">Unconfirmed</h2>
         <p>Images or videos that could not be reproduced or exact location unknown</p>
 
         <div class="row">
