@@ -1064,7 +1064,7 @@ old_data: [
     methods: "",
     worksOn: "Only this specific spot, no others",
     usefulFor: "Elevated position, Fun",
-    notes: "This should be patched. However, anyone up here is very vulnerable and there is no safe way down without dying from fall damage. Also, if you do this in real matches people will think you are hacking.",
+    notes: "However, anyone up here is very vulnerable and there is no safe way down without dying from fall damage. Also, if you do this in real matches people will think you are hacking.",
     link: "https://youtu.be/u6VxJYbPYSg",
   }
 ]
