@@ -858,7 +858,7 @@ data: [
     name: "Tank neutral to 55 kph",
     methods: "Down a hill spam shift and control as fast as possible",
     worksOn: "Any map with obstacle free hills",
-    usefulFor: "Fun",
+    usefulFor: "",
     notes: "Tiger appears to work the best though other tanks work too. Not practical as you can't steer at all while going neutral.",
     link: "https://youtu.be/XFFENocXuIw",
   },{
@@ -885,6 +885,23 @@ data: [
     usefulFor: "Fun",
     notes: "Impractical as you have the drive the panther all the way to other side of the map to the US HQ. The middle upper roof is inaccessible, the slope is too much and you fall off.",
     link: "https://youtu.be/6HSt_AYBNbk",
+  },{
+    thumb: "bino wall flicker.webp",
+    name: "Binocular wall flickering",
+    methods: "Spam Q and E while zoomed in with binos",
+    worksOn: "",
+    usefulFor: "",
+    notes: "Untested. Appears to be repeatedly Q and E swaying back and forth",
+    link: "https://youtu.be/5Jo2U8dgjrU",
+    credit: "Babyburn (Seasonal Discord)"
+  },{
+    thumb: "satchel friendly vehicle.webp",
+    name: "Mobile satchel inside friendly vehicle",
+    methods: "",
+    worksOn: "",
+    usefulFor: "Fun",
+    notes: "Impractical for a real match. Both sides have to work together: enemy jeep drops ammo crate inside halftrack, friendly team satchels enemy ammo crate inside.",
+    link: "https://youtu.be/pxQ5HScU2U4",
   },{
     thumb: "",
     name: "",
@@ -995,7 +1012,7 @@ old_data: [
   },{
     thumb: "factory roof.webp",
     name: "Factory roof from inside",
-    methods: "Vault at the roof in the specific spot",
+    methods: "Vault at the roof from inside",
     worksOn: "All maps asset is present on",
     usefulFor: "Elevated position, Hiding",
     notes: "Very easy and parts of the roof are not solid which you can hide inside.",
@@ -1013,7 +1030,31 @@ old_data: [
     links: [
       "https://youtu.be/OVx4jGQctvA"
     ],
-    thanks: "Babyburn (clip)",
+    credit: "Babyburn (Seasonal Discord)",
+  },{
+    thumb: "zig zag vault.webp",
+    name: "Zig-zag Vaulting",
+    methods: "Hold space and alternate the camera back and forth quickly",
+    worksOn: "Trees, Poles, any vertical asset with slight angle",
+    usefulFor: "Fun",
+    notes: "Impractical to do in a real match",
+    links: [
+      "https://youtu.be/wJLW-loI5vQ",
+      "https://youtu.be/aOy4JNeM-GQ",
+      "https://youtu.be/OnLcijD1rm8",
+    ],
+    credit: "Babyburn & Sourcecode (Seasonal Discord)",
+  },{
+    thumb: "public access 1.webp",
+    name: "Public access #1 (flying tank)",
+    methods: "",
+    worksOn: "",
+    usefulFor: "",
+    notes: "Really old video. Glitched inside a tank, throwing a smoke grenade interacts with the tank sending it flying.",
+    links: [
+      "https://youtu.be/hXquERCU7q4",
+    ],
+    credit: "Core (Seasonal Discord)",
   }
 ]
 
