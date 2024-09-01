@@ -40,7 +40,7 @@ title: Strats Let Loose
     <div class="row">
         {% assign strats = site.data.strats.data %}
         {% for strat in strats %}
-        {% if strat.name != "" %}
+        {% if strat.name and strat.name != '' %}
         <div class="col-sm-6">
             <div class="card mb-3">
                 <div class="row g-0">
@@ -62,31 +62,31 @@ title: Strats Let Loose
                                    data-bs-title="Credit: {{strat.credit}}"></i>
                                 {% endif %}
                             </h5>
-                            {% if strat.methods != "" %}
+                            {% if strat.methods and strat.methods != "" %}
                             <p class="card-text">
                                 Method(s): {{strat.methods}}
                             </p>
                             {% endif %}
 
-                            {% if strat.worksOn != "" %}
+                            {% if strat.worksOn and strat.worksOn != "" %}
                             <p class="card-text-">
                                 Works on: {{strat.worksOn}}
                             </p>
                             {% endif %}
 
-                            {% if strat.usefulFor != "" %}
+                            {% if strat.usefulFor and strat.usefulFor != "" %}
                             <p class="card-text">
                                 Useful for: {{strat.usefulFor}}
                             </p>
                             {% endif %}
 
-                            {% if strat.notes != "" %}
+                            {% if strat.notes and strat.notes != "" %}
                             <p class="card-text">
                                 {{strat.notes}}
                             </p>
                             {% endif %}
 
-                            {% if strat.link != "" %}
+                            {% if strat.link and strat.link != "" %}
                             <p class="card-text">
                                 <a href="{{strat.link}}" target="_blank">{{strat.link}}</a>
                             </p>
@@ -112,7 +112,7 @@ title: Strats Let Loose
     <div class="row">
         {% assign old_strats = site.data.strats.old_data %}
         {% for strat in old_strats %}
-        {% if strat.name != "" %}
+        {% if strat.name and strat.name != '' %}
         <div class="col-sm-6">
             <div class="card mb-3">
                 <div class="row g-0">
@@ -134,31 +134,31 @@ title: Strats Let Loose
                                    data-bs-title="Credit: {{strat.credit}}"></i>
                                 {% endif %}
                             </h5>
-                            {% if strat.methods != "" %}
+                            {% if strat.methods and strat.methods != "" %}
                             <p class="card-text">
                                 Method(s): {{strat.methods}}
                             </p>
                             {% endif %}
 
-                            {% if strat.worksOn != "" %}
+                            {% if strat.worksOn and strat.worksOn != "" %}
                             <p class="card-text-">
                                 Worked on: {{strat.worksOn}}
                             </p>
                             {% endif %}
 
-                            {% if strat.usefulFor != "" %}
+                            {% if strat.usefulFor and strat.usefulFor != "" %}
                             <p class="card-text">
                                 Useful for: {{strat.usefulFor}}
                             </p>
                             {% endif %}
 
-                            {% if strat.notes != "" %}
+                            {% if strat.notes and strat.notes != "" %}
                             <p class="card-text">
                                 {{strat.notes}}
                             </p>
                             {% endif %}
 
-                            {% if strat.link != "" %}
+                            {% if strat.link and strat.link != "" %}
                             <p class="card-text">
                                 <a href="{{strat.link}}" target="_blank">{{strat.link}}</a>
                             </p>
@@ -183,7 +183,7 @@ title: Strats Let Loose
         <div class="row">
             {% assign unconfirmed_strats = site.data.strats.unconfirmed_data %}
             {% for strat in unconfirmed_strats %}
-            {% if strat.name != "" %}
+            {% if strat.name and strat.name != '' %}
             <div class="col-sm-6">
                 <div class="card mb-3">
                     <div class="row g-0">
@@ -194,7 +194,7 @@ title: Strats Let Loose
                             <div class="card-body">
                                 <h5 class="card-title">{{strat.name}}</h5>
 
-                                {% if strat.notes != "" %}
+                                {% if strat.notes and strat.notes != "" %}
                                 <p class="card-text">
                                     {{strat.notes}}
                                 </p>
